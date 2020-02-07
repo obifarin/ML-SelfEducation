@@ -21,9 +21,9 @@ Completed (@ The University of Georgia)
 **1. Data Science from Scratch: First Principles with Python by Joel Grus | Technical** <br>
 **2. Machine Learning by Alpaydin | non-technical** <br>
 **3. Deep Medicine by Eric Topol | non-technical** <br>
-4. A Course in Machine Learning by Hal Daumé III | technical (*Currently reading*)
-5. Introduction to Statistical Learning: with Applications in R by Gareth James _et al_  | technical (*Currently reading*)
-6. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurelien Geron | technical (*Currently reading*)
+4. A Course in Machine Learning by Hal Daumé III | technical (*Currently reading*) <br>
+5. Introduction to Statistical Learning: with Applications in R by Gareth James _et al_  | technical (*Currently reading*)<br>
+6. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurelien Geron | technical (*Currently reading*) <br>
 7. Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More by Bharath Ramsundar | technical (*Currently reading*)
 
 
