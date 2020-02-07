@@ -1,14 +1,14 @@
 # ML-SelfEducation
-**Updated 07FEB2020**
+### Updated 07FEB2020
 
 Lists of books, classes, MOOCs I have completed (or completing) on machine learning
 
 ## Classes
 
 Completed (@ The University of Georgia)
-1. CSCI 1360 Foundations for Informatics and Analytics | Fall 2018
-2. STAT 6250 Applied Multivariate Analysis and Statistical Learning | Spring 2019
-3. ARTI 8950 Machine Learning | Spring 2020 (<color font="blue">On-going</font>)
+**1. CSCI 1360 Foundations for Informatics and Analytics | Fall 2018
+2. STAT 6250 Applied Multivariate Analysis and Statistical Learning | Spring 2019**
+3. ARTI 8950 Machine Learning | Spring 2020 (*On-going*)
 
 ## MOOCs
 
