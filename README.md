@@ -27,8 +27,8 @@ Completed (@ The University of Georgia) <br>
 7. Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More by Bharath Ramsundar | technical (*Currently reading*)
 
 ## VIDEO MATERIALS
-1. Stat Quest with Josh Starmer Machine Learning Playlist (__[Link](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)__)
-_These are great, intuitive introductory videos to machine learning, and some ML algorithms.__ 
+1. Stat Quest with Josh Starmer Machine Learning Playlist (__[Link](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)__) <br>
+_Comment: These are great, intuitive introductory videos to machine learning, and some ML algorithms.__ 
 2. Deeplearning.ai (__[Link](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists)__)
 3. Standford's Convolutional Neural Networks for Visual Recognition (__[Link](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)__)
 
