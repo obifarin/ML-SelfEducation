@@ -28,8 +28,9 @@ Completed (@ The University of Georgia) <br>
 
 ## VIDEO MATERIALS
 1. Stat Quest with Josh Starmer Machine Learning Playlist (__[Link](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)__) <br>
-_Comment: These are great, intuitive introductory videos to machine learning, and some ML algorithms.__ 
+___Comment: Watched a few. These are great, intuitive introductory videos to machine learning, and some ML algorithms.___ 
 2. Deeplearning.ai (__[Link](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists)__)
 3. Standford's Convolutional Neural Networks for Visual Recognition (__[Link](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)__)
+4. MIT 18.065: Gilbert Strang's Matrix Methods in Data Analysis, Signal Processing, and Machine Learning (__[Link](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)__)
 
 
