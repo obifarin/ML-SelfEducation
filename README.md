@@ -1,5 +1,5 @@
 # ML-SelfEducation
-### Updated 07FEB2020
+### Updated 19FEB2020
 
 Lists of books, classes, MOOCs I have completed (or completing) on machine learning
 
@@ -28,6 +28,6 @@ Completed (@ The University of Georgia) <br>
 
 ## VIDEO MATERIALS
 1. Deeplearning.ai (__[Link](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists)__)
-2. 
+2. Standford's Convolutional Neural Networks for Visual Recognition (__[Link](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)__)
 
 
