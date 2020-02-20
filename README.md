@@ -1,5 +1,5 @@
 # ML-SelfEducation
-### Updated 19FEB2020
+### Updated 20FEB2020
 
 Lists of books, classes, MOOCs I have completed (or completing) on machine learning
 
@@ -32,5 +32,7 @@ ___Comment: Watched a few. These are great, intuitive introductory videos to mac
 2. Deeplearning.ai (__[Link](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists)__)
 3. Standford's Convolutional Neural Networks for Visual Recognition (__[Link](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)__)
 4. MIT 18.065: Gilbert Strang's Matrix Methods in Data Analysis, Signal Processing, and Machine Learning (__[Link](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)__)
+5. Bloomberg's Foundations of Machine Learning (__[Link](https://www.youtube.com/watch?v=MsD28INtSv8&list=PLnZuxOufsXnvftwTB1HL6mel1V32w0ThI)__)
+
 
 
