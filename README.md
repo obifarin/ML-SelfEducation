@@ -15,7 +15,8 @@ Completed (@ The University of Georgia) <br>
 **1. Learning MATLAB lynda.com from linkedin | July 2016** <br>
 **2. STAT 505 Applied Multivariate Statistical Analysis (__[Penn State](https://online.stat.psu.edu/stat505/)__)  | Audit (Spring 2019)** <br>
 **3. Mathematics for Machine Learning: Linear Algebra from Coursera (Spring 2020)** <br>
-4. Mathematics of Machine Learning Coursera (*ongoing*)
+**4. Mathematics for Machine Learning: Multivariate Calculus from Coursera (Spring 2020)** <br>
+5. Mathematics of Machine Learning Coursera (*ongoing*)
 
 ## BOOKS
 **1. Data Science from Scratch: First Principles with Python by Joel Grus | Technical** <br>
