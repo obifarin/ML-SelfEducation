@@ -1,5 +1,5 @@
 # ML-SelfEducation
-Updated 27MARCH2020
+Updated 23APR2020
 
 Lists of books, classes, MOOCs I have completed (or completing) on machine learning
 
@@ -39,7 +39,7 @@ ___Comment: Watched a few. These are great, intuitive introductory videos to mac
 5. Bloomberg's Foundations of Machine Learning (__[Link](https://www.youtube.com/watch?v=MsD28INtSv8&list=PLnZuxOufsXnvftwTB1HL6mel1V32w0ThI)__)
 6. Stat Quest with Josh Starmer Statistics Fundamentals Playlist (__[Link](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)__) <br> 
 7. freeCodeCamp.org TensorFlow 2.0 Complete Course (__[Link](https://www.youtube.com/watch?v=tPYj3fFJGjk&t=5450s)__) <br> 
-8. Ali Ghodsi's STAT 946: Deep Learning Class @ UWaterloo  (__[Link](https://www.youtube.com/watch?v=poa3dNdMe4o&list=PLehuLRPyt1HxTolYUWeyyIoxDabDmaOSB&index=7)__) <br>
+8. Ali Ghodsi's STAT 946: Deep Learning Class @ UWaterloo  (__[Link](https://www.youtube.com/watch?v=poa3dNdMe4o&list=PLehuLRPyt1HxTolYUWeyyIoxDabDmaOSB&index=7)__, __[Syllabus](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/f18-stat946-dl-v1.pdf)) <br>
 
 
 
