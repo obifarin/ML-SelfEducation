@@ -1,5 +1,5 @@
 # ML-SelfEducation
-Updated 23APR2020
+Updated 26MAY2020
 
 Lists of books, classes, MOOCs I have completed (or completing) on machine learning
 
@@ -8,7 +8,7 @@ Lists of books, classes, MOOCs I have completed (or completing) on machine learn
 Completed (@ The University of Georgia) <br>
 **1. CSCI 1360 Foundations for Informatics and Analytics | Fall 2018** <br>
 **2. STAT 6250 Applied Multivariate Analysis and Statistical Learning | Spring 2019** <br>
-3. ARTI 8950 Machine Learning | Spring 2020 (*On-going*)
+**3. ARTI 8950 Machine Learning | Spring 2020** 
 
 ## MOOCs
 
@@ -16,7 +16,8 @@ Completed (@ The University of Georgia) <br>
 **2. STAT 505 Applied Multivariate Statistical Analysis (__[Penn State](https://online.stat.psu.edu/stat505/)__)  | Audit (Spring 2019)** <br>
 **3. Mathematics for Machine Learning: Linear Algebra from Coursera (Spring 2020)** <br>
 **4. Mathematics for Machine Learning: Multivariate Calculus from Coursera (Spring 2020)** <br>
-5. Mathematics of Machine Learning Coursera (*ongoing*)
+**5. Mathematics of Machine Learning: Mathematics for PCA from Coursera**
+6. Neural Networks and Deep Learning (*ongoing*)
 
 ## BOOKS
 **1. Data Science from Scratch: First Principles with Python by Joel Grus | Technical** <br>
