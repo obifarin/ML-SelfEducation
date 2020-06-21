@@ -1,5 +1,5 @@
 # ML-SelfEducation
-Updated 26MAY2020
+Updated 20JUNE2020
 
 Lists of books, classes, MOOCs I have completed (or completing) on machine learning
 
@@ -27,6 +27,7 @@ Completed (@ The University of Georgia) <br>
 5. Introduction to Statistical Learning: with Applications in R by Gareth James _et al_  | technical (*Currently reading*)<br>
 6. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurelien Geron | technical (*Currently reading*) <br>
 7. Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More by Bharath Ramsundar | technical (*Currently reading*)
+8. The Book of Why? (*Currently reading*)
 
 ## VIDEO MATERIALS
 
