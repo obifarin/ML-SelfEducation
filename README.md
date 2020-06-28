@@ -17,24 +17,24 @@ Completed (@ The University of Georgia) <br>
 3. Mathematics for Machine Learning: Linear Algebra from Coursera (Spring 2020) <br>
 4. Mathematics for Machine Learning: Multivariate Calculus from Coursera (Spring 2020) <br>
 5. Mathematics of Machine Learning: PCA from Coursera <br>
-6. ``Neural Networks and Deep Learning (ongoing)``
+6. `Neural Networks and Deep Learning (ongoing)`
 
 ## BOOKS
-**1. Data Science from Scratch: First Principles with Python by Joel Grus | Technical** <br>
-**2. Machine Learning by Alpaydin | non-technical** <br>
-**3. Deep Medicine by Eric Topol | non-technical** <br>
-**4. A Course in Machine Learning by Hal Daumé III | technical** <br>
-5. Introduction to Statistical Learning: with Applications in R by Gareth James _et al_  | technical (*Currently reading*)<br>
-6. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurelien Geron | technical (*Currently reading*) <br>
-7. Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More by Bharath Ramsundar | technical (*Currently reading*) <br>
-8. The Book of Why? (*Currently reading*)
+1. Data Science from Scratch: First Principles with Python by Joel Grus | Technical <br>
+2. Machine Learning by Alpaydin | non-technical <br>
+3. Deep Medicine by Eric Topol | non-technical <br>
+4. A Course in Machine Learning by Hal Daumé III | technical <br>
+5. `Introduction to Statistical Learning: with Applications in R by Gareth James _et al_  | technical (Currently reading)`<br>
+6. `Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurelien Geron | technical (*Currently reading)` <br>
+7. `Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More by Bharath Ramsundar | technical (Currently reading)` <br>
+8. `The Book of Why? (Currently reading)`
 
 ## VIDEO MATERIALS
 
 These are my go-to online video materials anytime I want to learn a new concept or refresh my memory about a concept. 
 
 1. Stat Quest with Josh Starmer Machine Learning Playlist (__[Link](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)__) <br>
-___Comment: Watched a few. These are great, intuitive introductory videos to machine learning, and some ML algorithms.___ 
+`Comment: Watched a few. These are great, intuitive introductory videos to machine learning, and some ML algorithms.` 
 2. Deeplearning.ai (__[Link](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists)__)
 3. Standford's Convolutional Neural Networks for Visual Recognition (__[Link](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)__)
 4. MIT 18.065: Gilbert Strang's Matrix Methods in Data Analysis, Signal Processing, and Machine Learning (__[Link](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)__)
