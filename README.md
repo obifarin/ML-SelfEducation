@@ -5,6 +5,7 @@ Lists of books, classes, MOOCs I have completed (or completing) on machine learn
 
 ## Classes
 
+### Completed
 Completed (@ The University of Georgia) <br>
 1. CSCI 1360 Foundations for Informatics and Analytics | Fall 2018 __[Link](http://www.bulletin.uga.edu/CoursesHome.aspx?cid=32624)__ <br>
 2. STAT 6250 Applied Multivariate Analysis and Statistical Learning | Spring 2019 __[Link](http://bulletin.uga.edu/Link.aspx?cid=stat6250)__ <br>
