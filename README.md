@@ -25,7 +25,8 @@ Completed (@ The University of Georgia) <br>
 
 ## Books
 1. Data Science from Scratch: First Principles with Python by Joel Grus | Technical <br>
-Completed2. Machine Learning by Alpaydin | non-technical <br>
+Completed
+2. Machine Learning by Alpaydin | non-technical <br>
 3. Deep Medicine by Eric Topol | non-technical <br>
 4. A Course in Machine Learning by Hal Daumé III | technical <br>
 
