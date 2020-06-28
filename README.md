@@ -28,7 +28,7 @@ Completed (@ The University of Georgia) <br>
 **Completed**
 1. Data Science from Scratch: First Principles with Python by Joel Grus | Technical __[my review](https://www.goodreads.com/review/show/2495069094)__ <br>
 2. Machine Learning by Alpaydin | non-technical | __[my review](https://www.goodreads.com/review/show/2788173080)__<br>
-3. Deep Medicine by Eric Topol | non-technical | __[my review](https://www.goodreads.com/review/show/2900533125)__]<br>
+3. Deep Medicine by Eric Topol | non-technical | __[my review](https://www.goodreads.com/review/show/2900533125)__<br>
 4. A Course in Machine Learning by Hal Daumé III | technical | __[my review](https://www.goodreads.com/review/show/3129520991)__ <br>
 
 **Reading**
