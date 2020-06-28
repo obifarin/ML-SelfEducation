@@ -7,9 +7,9 @@ Lists of books, classes, MOOCs I have completed (or completing) on machine learn
 
 **Completed**
 Completed (@ The University of Georgia) <br>
-1. CSCI 1360 Foundations for Informatics and Analytics | Fall 2018 __[Link](http://www.bulletin.uga.edu/CoursesHome.aspx?cid=32624)__ <br>
-2. STAT 6250 Applied Multivariate Analysis and Statistical Learning | Spring 2019 __[Link](http://bulletin.uga.edu/Link.aspx?cid=stat6250)__ <br>
-3. ARTI 8950 Machine Learning | Spring 2020 __[Link](http://bulletin.uga.edu/Link.aspx?cid=CSCI/ARTI%208950)__
+1. CSCI 1360 Foundations for Informatics and Analytics | Fall 2018 | __[Link](http://www.bulletin.uga.edu/CoursesHome.aspx?cid=32624)__ <br>
+2. STAT 6250 Applied Multivariate Analysis and Statistical Learning | Spring 2019 | __[Link](http://bulletin.uga.edu/Link.aspx?cid=stat6250)__ <br>
+3. ARTI 8950 Machine Learning | Spring 2020 | __[Link](http://bulletin.uga.edu/Link.aspx?cid=CSCI/ARTI%208950)__
 
 ## MOOCs
 
@@ -28,9 +28,9 @@ Completed (@ The University of Georgia) <br>
 **Completed**
 1. Data Science from Scratch: First Principles with Python by Joel Grus | Technical <br>
 Completed
-2. Machine Learning by Alpaydin | non-technical __[my review](https://www.goodreads.com/review/show/2788173080)__<br>
-3. Deep Medicine by Eric Topol | non-technical <br>
-4. A Course in Machine Learning by Hal Daumé III | technical <br>
+2. Machine Learning by Alpaydin | non-technical | __[my review](https://www.goodreads.com/review/show/2788173080)__<br>
+3. Deep Medicine by Eric Topol | non-technical | __[my review](https://www.goodreads.com/review/show/2900533125)__]<br>
+4. A Course in Machine Learning by Hal Daumé III | technical | __[my review](https://www.goodreads.com/review/show/3129520991)__ <br>
 
 **Reading**
 - `Introduction to Statistical Learning: with Applications in R by Gareth James _et al_  | technical`<br>
