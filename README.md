@@ -6,13 +6,13 @@ Lists of books, classes, MOOCs I have completed (or completing) on machine learn
 ## Classes
 
 Completed (@ The University of Georgia) <br>
-**1. CSCI 1360 Foundations for Informatics and Analytics | Fall 2018** <br>
-**2. STAT 6250 Applied Multivariate Analysis and Statistical Learning | Spring 2019** <br>
-**3. ARTI 8950 Machine Learning | Spring 2020** 
+1. CSCI 1360 Foundations for Informatics and Analytics | Fall 2018 <br>
+2. STAT 6250 Applied Multivariate Analysis and Statistical Learning | Spring 2019 <br>
+3. ARTI 8950 Machine Learning | Spring 2020
 
 ## MOOCs
 
-**1. Learning MATLAB lynda.com from linkedin | July 2016** <br>
+1. Learning MATLAB lynda.com from linkedin | July 2016 <br>
 **2. STAT 505 Applied Multivariate Statistical Analysis (__[Penn State](https://online.stat.psu.edu/stat505/)__)  | Audit (Spring 2019)** <br>
 **3. Mathematics for Machine Learning: Linear Algebra from Coursera (Spring 2020)** <br>
 **4. Mathematics for Machine Learning: Multivariate Calculus from Coursera (Spring 2020)** <br>
