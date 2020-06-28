@@ -21,7 +21,7 @@ Completed (@ The University of Georgia) <br>
 5. Mathematics of Machine Learning: PCA from Coursera <br>
 
 **Ongoing**
-- `Neural Networks and Deep Learning (ongoing)`
+- `Neural Networks and Deep Learning`
 
 ## Books
 1. Data Science from Scratch: First Principles with Python by Joel Grus | Technical <br>
@@ -30,10 +30,10 @@ Completed
 3. Deep Medicine by Eric Topol | non-technical <br>
 4. A Course in Machine Learning by Hal Daumé III | technical <br>
 
-**Ongoing**
-- `Introduction to Statistical Learning: with Applications in R by Gareth James _et al_  | technical (Currently reading)`<br>
-- `Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurelien Geron | technical (*Currently reading)` <br>
-- `Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More by Bharath Ramsundar | technical (Currently reading)` <br>
+**Reading**
+- `Introduction to Statistical Learning: with Applications in R by Gareth James _et al_  | technical`<br>
+- `Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurelien Geron | technical` <br>
+- `Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More by Bharath Ramsundar | technical ` <br>
 - `The Book of Why? (Currently reading)`
 
 ## Video Materials
