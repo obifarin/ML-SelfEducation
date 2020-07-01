@@ -32,7 +32,7 @@ Completed (@ The University of Georgia) <br>
 4. A Course in Machine Learning by Hal Daumé III | technical | __[my review](https://www.goodreads.com/review/show/3129520991)__ <br>
 
 **Reading**
-- `Introduction to Statistical Learning: with Applications in R by Gareth James _et al_  | technical`<br>
+- `Introduction to Statistical Learning: with Applications in R by Gareth James et al  | technical`<br>
 - `Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurelien Geron | technical` <br>
 - `Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More by Bharath Ramsundar | technical ` <br>
 - `The Book of Why?`
