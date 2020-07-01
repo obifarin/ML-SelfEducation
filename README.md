@@ -50,6 +50,6 @@ These are my go-to online video materials anytime I want to learn a new concept 
 6. Stat Quest with Josh Starmer Statistics Fundamentals Playlist (__[Link](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)__) <br> 
 7. freeCodeCamp.org TensorFlow 2.0 Complete Course (__[Link](https://www.youtube.com/watch?v=tPYj3fFJGjk&t=5450s)__) <br> 
 8. Ali Ghodsi's STAT 946: Deep Learning Class @ UWaterloo  (__[Link](https://www.youtube.com/watch?v=poa3dNdMe4o&list=PLehuLRPyt1HxTolYUWeyyIoxDabDmaOSB&index=7)__, __[Syllabus](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/f18-stat946-dl-v1.pdf)__) <br>
-
+9. DeepMind x UCL | Deep Learning Lectures (__[Link](https://www.youtube.com/watch?v=7R52wiUgxZI&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)__)
 
 
