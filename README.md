@@ -19,9 +19,10 @@ Completed (@ The University of Georgia) <br>
 3. Mathematics for Machine Learning: Linear Algebra from Coursera (Spring 2020) <br>
 4. Mathematics for Machine Learning: Multivariate Calculus from Coursera (Spring 2020) <br>
 5. Mathematics of Machine Learning: PCA from Coursera <br>
+6. Neural Networks and Deep Learning
 
 **Ongoing**
-- `Neural Networks and Deep Learning`
+- `Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization`
 
 ## Books
 
