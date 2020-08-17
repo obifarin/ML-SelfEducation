@@ -16,13 +16,15 @@ Completed (@ The University of Georgia) <br>
 **Completed**
 1. Learning MATLAB lynda.com from linkedin | July 2016 <br>
 2. STAT 20JUNE2020505 Applied Multivariate Statistical Analysis (__[Penn State](https://online.stat.psu.edu/stat505/)__)  | Audit (Spring 2019) <br>
-3. Mathematics for Machine Learning: Linear Algebra from Coursera (Spring 2020) <br>
-4. Mathematics for Machine Learning: Multivariate Calculus from Coursera (Spring 2020) <br>
-5. Mathematics of Machine Learning: PCA from Coursera <br>
-6. Neural Networks and Deep Learning
+3. Mathematics for Machine Learning: Linear Algebra | Coursera | Jan 2020 <br>
+4. Mathematics for Machine Learning: Multivariate Calculus | Coursera | Mar 2020 <br>
+5. Mathematics of Machine Learning: PCA | Coursera | May 2020 <br>
+6. Neural Networks and Deep Learning | Coursera | Jul 2020 <br>
+7. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization | Coursera | Aug 2020
 
 **Ongoing**
-- `Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization`
+- `Structuring Machine Learning Project`
+- `Convolutional Neural Network`
 
 ## Books
 
