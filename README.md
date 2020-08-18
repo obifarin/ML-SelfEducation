@@ -22,6 +22,7 @@ Completed (@ The University of Georgia) <br>
 6. Neural Networks and Deep Learning | Coursera | Jul 2020 <br>
 7. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization | Coursera | Aug 2020 <br>
 8. Structuring Machine Learning Project | Coursera | Aug 2020 <br>
+
 **Ongoing**
 - `Convolutional Neural Network`
 
