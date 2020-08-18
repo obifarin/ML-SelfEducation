@@ -21,9 +21,8 @@ Completed (@ The University of Georgia) <br>
 5. Mathematics of Machine Learning: PCA | Coursera | May 2020 <br>
 6. Neural Networks and Deep Learning | Coursera | Jul 2020 <br>
 7. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization | Coursera | Aug 2020
-
+8. Structuring Machine Learning Project | Coursera | Aug 2020
 **Ongoing**
-- `Structuring Machine Learning Project`
 - `Convolutional Neural Network`
 
 ## Books
