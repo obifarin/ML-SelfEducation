@@ -16,7 +16,7 @@ Completed (@ The University of Georgia) <br>
 **Completed**
 1. Learning MATLAB | Linkedin learning | July 2016 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/LearningMATLAB_Lynda(2016)_CertificateOfCompletion.pdf)__ <br>
 2. STAT 505 Applied Multivariate Statistical Analysis (__[Penn State](https://online.stat.psu.edu/stat505/)__)  | Audit | April 2019 <br>
-3. Mathematics for Machine Learning: Linear Algebra | Coursera | Jan 2020 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/LinearAlgebra_Coursera(2020)_CertificateofCompletion.pdf)<br>
+3. Mathematics for Machine Learning: Linear Algebra | Coursera | Jan 2020 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/LinearAlgebra_Coursera(2020)_CertificateofCompletion.pdf)__ <br>
 4. Mathematics for Machine Learning: Multivariate Calculus | Coursera | Mar 2020 <br>
 5. Mathematics of Machine Learning: PCA | Coursera | May 2020 <br>
 6. Neural Networks and Deep Learning | Coursera | Jul 2020 <br>
