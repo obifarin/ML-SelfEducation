@@ -17,14 +17,15 @@ Completed (@ The University of Georgia) <br>
 1. Learning MATLAB | Linkedin learning | July 2016 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/LearningMATLAB_Lynda(2016)_CertificateOfCompletion.pdf)__ <br>
 2. STAT 505 Applied Multivariate Statistical Analysis (__[Penn State](https://online.stat.psu.edu/stat505/)__)  | Audit | April 2019 <br>
 3. Mathematics for Machine Learning: Linear Algebra | Coursera | Jan 2020 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/LinearAlgebra_Coursera(2020)_CertificateofCompletion.pdf)__ <br>
-4. Mathematics for Machine Learning: Multivariate Calculus | Coursera | Mar 2020 <br>
-5. Mathematics of Machine Learning: PCA | Coursera | May 2020 <br>
-6. Neural Networks and Deep Learning | Coursera | Jul 2020 <br>
-7. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization | Coursera | Aug 2020 <br>
-8. Structuring Machine Learning Project | Coursera | Aug 2020 <br>
+4. Mathematics for Machine Learning: Multivariate Calculus | Coursera | Mar 2020 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/MultivariateCalculus(2020)_CertificateofCompletion.pdf)__   <br>
+5. Mathematics of Machine Learning: PCA | Coursera | May 2020 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/PCA(2020)_CertificateofCompletion.pdf)__ <br>
+6. Neural Networks and Deep Learning | Coursera | Jul 2020 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/Neural_Network_Deep_Learning_CoC.pdf)__ <br>
+7. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization | Coursera | Aug 2020  __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/Hyperparameter_DL(2020)_CoC.pdf)__<br>
+8. Structuring Machine Learning Project | Coursera | Aug 2020 | Aug 2020  __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/Structuring_ML_Projects(2020)_CoC.pdf)__<br>
 
 **Ongoing**
 - `Convolutional Neural Network`
+- `Recurrent Neural Network`
 
 ## Books
 
