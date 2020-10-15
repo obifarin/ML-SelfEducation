@@ -35,6 +35,7 @@ Completed (@ The University of Georgia) <br>
 3. Deep Medicine by Eric Topol | non-technical | __[my review](https://www.goodreads.com/review/show/2900533125)__<br>
 4. A Course in Machine Learning by Hal Daumé III | technical | __[my review](https://www.goodreads.com/review/show/3129520991)__ <br>
 5. The Book of Why: The New Science of Cause and Effect | Semi-technical | __[my review](https://www.goodreads.com/review/show/2567632521)__ <br>
+6. Introduction to Statistical Learning: with Applications in R by Gareth James et al  | Technical | __[my review]((https://www.goodreads.com/review/show/2384485940?book_show_action=false)__
 **Reading**
 - `Introduction to Statistical Learning: with Applications in R by Gareth James et al  | Technical`<br>
 - `Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurelien Geron | Technical` <br>
