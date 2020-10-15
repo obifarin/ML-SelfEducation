@@ -38,7 +38,6 @@ Completed (@ The University of Georgia) <br>
 6. Introduction to Statistical Learning: with Applications in R by Gareth James et al  | Technical | __[my review](https://www.goodreads.com/review/show/2384485940?book_show_action=false)__ <br>
 
 **Reading**
-- `Introduction to Statistical Learning: with Applications in R by Gareth James et al  | Technical`<br>
 - `Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurelien Geron | Technical` <br>
 - `Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More by Bharath Ramsundar | Technical ` <br>
 
