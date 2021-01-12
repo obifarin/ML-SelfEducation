@@ -23,9 +23,14 @@ Completed (@ The University of Georgia) <br>
 7. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization | Coursera | Aug 2020 |  __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/Hyperparameter_DL(2020)_CoC.pdf)__<br>
 8. Structuring Machine Learning Project | Coursera | Aug 2020 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/Structuring_ML_Projects(2020)_CoC.pdf)__<br>
 
+**Coursera Guided Classes: Completed**
+1. <br>
+2.
+
 **Ongoing**
 - `Convolutional Neural Network`
 - `Recurrent Neural Network`
+- `Algorithms`
 
 ## Books
 
@@ -39,6 +44,7 @@ Completed (@ The University of Georgia) <br>
 7. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurelien Geron | Technical | Technical | __[my review-1](https://www.goodreads.com/review/show/2997496706?book_show_action=false)__ <br>
 
 **Reading**
+- `Interpretable Machine Learning by C. Molnar | Technical`
 - `Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurelien Geron | Technical` <br>
 - `Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More by Bharath Ramsundar | Technical ` <br>
 
