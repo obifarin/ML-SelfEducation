@@ -3,7 +3,7 @@ Updated
 
 Lists of books, classes, MOOCs I have completed (or completing) on machine learning
 
-## Classes
+## University Classes
 
 **Completed**
 Completed (@ The University of Georgia) <br>
