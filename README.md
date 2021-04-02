@@ -46,6 +46,7 @@ Completed (@ The University of Georgia) <br>
 8. Interpretable Machine Learning by C. Molnar | Technical |  __[my review](https://www.goodreads.com/book/show/42242921-interpretable-machine-learning)__ <br>
 
 **Reading**
+- `Hands-On Gradient Boosting with XGBoost and scikit-learn by Corey Wade | Technical` <br>
 - `Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurelien Geron | Technical` <br>
 - `Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More by Bharath Ramsundar | Technical ` <br>
 
