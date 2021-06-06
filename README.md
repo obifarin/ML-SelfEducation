@@ -44,6 +44,7 @@ Completed (@ The University of Georgia) <br>
 6. Introduction to Statistical Learning: with Applications in R by Gareth James et al  | Technical | __[my review](https://www.goodreads.com/review/show/2384485940?book_show_action=false)__ <br>
 7. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurelien Geron | Technical | Technical | __[my review-1](https://www.goodreads.com/review/show/2997496706?book_show_action=false)__ <br>
 8. Interpretable Machine Learning by C. Molnar | Technical |  __[my review](https://www.goodreads.com/book/show/42242921-interpretable-machine-learning)__ <br>
+9. Hands-On Gradient Boosting with XGBoost and scikit-learn by Corey Wade | Technical | __[my review](https://www.goodreads.com/review/show/3917175929)__ <br>
 
 **Reading**
 - `Hands-On Gradient Boosting with XGBoost and scikit-learn by Corey Wade | Technical` <br>
