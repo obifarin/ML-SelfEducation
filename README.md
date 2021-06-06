@@ -47,7 +47,6 @@ Completed (@ The University of Georgia) <br>
 9. Hands-On Gradient Boosting with XGBoost and scikit-learn by Corey Wade | Technical | __[my review](https://www.goodreads.com/review/show/3917175929)__ <br>
 
 **Reading**
-- `Hands-On Gradient Boosting with XGBoost and scikit-learn by Corey Wade | Technical` <br>
 - `Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurelien Geron | Technical` <br>
 - `Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More by Bharath Ramsundar | Technical ` <br>
 
