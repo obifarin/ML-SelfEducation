@@ -49,6 +49,7 @@ Completed (@ The University of Georgia) <br>
 **Reading**
 - `Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurelien Geron | Technical` <br>
 - `Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More by Bharath Ramsundar | Technical ` <br>
+- `Survival analysis: A self learning text` <br>
 
 ## Video Materials
 
