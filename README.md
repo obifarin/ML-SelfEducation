@@ -68,5 +68,6 @@ These are my go-to online video materials anytime I want to learn a new concept 
 7. freeCodeCamp.org TensorFlow 2.0 Complete Course (__[Link](https://www.youtube.com/watch?v=tPYj3fFJGjk&t=5450s)__) <br> 
 8. Ali Ghodsi's STAT 946: Deep Learning Class @ UWaterloo  (__[Link](https://www.youtube.com/watch?v=poa3dNdMe4o&list=PLehuLRPyt1HxTolYUWeyyIoxDabDmaOSB&index=7)__, __[Syllabus](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/f18-stat946-dl-v1.pdf)__) <br>
 9. DeepMind x UCL | Deep Learning Lectures (__[Link](https://www.youtube.com/watch?v=7R52wiUgxZI&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)__)
+10. Deep Learning in Life Sciences, MIT Course (__[Link](https://www.youtube.com/watch?v=0jWOZoTsYzI&list=PLypiXJdtIca5sxV7aE3-PS9fYX3vUdIOX)__)
 
 
