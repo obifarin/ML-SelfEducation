@@ -32,6 +32,7 @@ Completed (@ The University of Georgia) <br>
 - `Convolutional Neural Network`
 - `Recurrent Neural Network`
 - `Algorithms and Data Structures`
+- `Specialized Models: Time Series and Survival Analysis`
 
 ## Books
 
@@ -50,6 +51,7 @@ Completed (@ The University of Georgia) <br>
 - `Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurelien Geron | Technical` <br>
 - `Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More by Bharath Ramsundar | Technical ` <br>
 - `Survival analysis: A self learning text` <br>
+- `Modern Computer Vision by PyTorch`
 
 ## Video Materials
 
