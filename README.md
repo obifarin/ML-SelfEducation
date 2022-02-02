@@ -22,6 +22,7 @@ Completed (@ The University of Georgia) <br>
 6. Neural Networks and Deep Learning | Coursera | Jul 2020 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/Neural_Network_Deep_Learning_CoC.pdf)__ <br>
 7. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization | Coursera | Aug 2020 |  __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/Hyperparameter_DL(2020)_CoC.pdf)__<br>
 8. Structuring Machine Learning Project | Coursera | Aug 2020 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/Structuring_ML_Projects(2020)_CoC.pdf)__<br>
+9. Specialized Models: Time Series and Survival Analysis | Coursera | Feb 2022 | I did not complete, I skipped the following topics, ARMA, ARIMA, SARIMA models, deep learning for forecasting. <br>
 
 **Coursera Guided Classes: Completed**
 1. Perform Real-Time Object Detection with YOLOv3 | Coursera | Nov 2020 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/Perform%20Real-Time%20Object%20Detection%20with%20YOLOv3.pdf)__<br>
@@ -32,7 +33,6 @@ Completed (@ The University of Georgia) <br>
 - `Convolutional Neural Network`
 - `Recurrent Neural Network`
 - `Algorithms and Data Structures`
-- `Specialized Models: Time Series and Survival Analysis`
 - `Deep Learning with PyTorch : Image Segmentation`
 
 ## Books
