@@ -34,7 +34,6 @@ Completed (@ The University of Georgia) <br>
 - `Convolutional Neural Network`
 - `Recurrent Neural Network`
 - `Algorithms and Data Structures`
-- ``
 
 ## Books
 
