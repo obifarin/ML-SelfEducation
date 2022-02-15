@@ -28,12 +28,13 @@ Completed (@ The University of Georgia) <br>
 1. Perform Real-Time Object Detection with YOLOv3 | Coursera | Nov 2020 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/Perform%20Real-Time%20Object%20Detection%20with%20YOLOv3.pdf)__<br>
 2. Explaining Tree Based Models Using SHAP | Coursera | Dec 2020 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/Explaining%20Tree%20Based%20Models%20Using%20SHAP.pdf)__
 3. Automatic Machine Learning Learning with H2O AutoML and Python | Coursera | Mar 2021 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/AutoML_H20_Python_Coursera_9MQ8W4N5VT4D_2021.pdf)__
+4. Deep Learning with PyTorch : Image Segmentation| Coursera | Feb 2022 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/PyTorch_Image_Segmentation.pdf)__
 
 **Ongoing**
 - `Convolutional Neural Network`
 - `Recurrent Neural Network`
 - `Algorithms and Data Structures`
-- `Deep Learning with PyTorch : Image Segmentation`
+- ``
 
 ## Books
 
