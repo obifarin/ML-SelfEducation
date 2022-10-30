@@ -50,14 +50,14 @@ Completed (@ The University of Georgia) <br>
 10. Survival analysis: A self learning text | Technical | __[my review](https://www.goodreads.com/review/show/4314314214)__
 
 **Reading**
-- `Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurelien Geron | Technical` <br>
-- `Deep Learning for the Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More by Bharath Ramsundar | Technical ` <br>
-- `Survival analysis: A self learning text` <br>
 - `Modern Computer Vision with PyTorch`
+- `GPT-3 Building Innovative NLP Products Using Large Language Models`
+- `Machine Learning Automation with TPOT Build, validate, and deploy fully automated machine learning models with Python`
+- `Applied Machine Learning Explainability Techniques Make ML models explainable and trustworthy for practical applications using LIME, SHAP, and more Aditya Bhattacharya`
 
 ## Video Materials
 
-These are my go-to online video materials anytime I want to learn a new concept or refresh my memory about a concept. 
+These are some of my go-to online video materials anytime I want to learn a new concept or refresh my memory about a concept. 
 
 1. Stat Quest with Josh Starmer Machine Learning Playlist (__[Link](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)__) <br>
 `Comment: Watched a few. These are great, intuitive introductory videos to machine learning, and some ML algorithms.` 
