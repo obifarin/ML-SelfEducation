@@ -47,6 +47,7 @@ Completed (@ The University of Georgia) <br>
 7. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurelien Geron | Technical | Technical | __[my review-1](https://www.goodreads.com/review/show/2997496706?book_show_action=false)__ <br>
 8. Interpretable Machine Learning by C. Molnar | Technical |  __[my review](https://www.goodreads.com/book/show/42242921-interpretable-machine-learning)__ <br>
 9. Hands-On Gradient Boosting with XGBoost and scikit-learn by Corey Wade | Technical | __[my review](https://www.goodreads.com/review/show/3917175929)__ <br>
+10. Survival analysis: A self learning text | Technical | __[my review](https://www.goodreads.com/review/show/4314314214)__
 
 **Reading**
 - `Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurelien Geron | Technical` <br>
