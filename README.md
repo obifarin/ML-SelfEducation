@@ -53,20 +53,19 @@ Completed (@ The University of Georgia) <br>
 **Reading**
 - `Applied Machine Learning Explainability Techniques Make ML models explainable and trustworthy for practical applications using LIME, SHAP, and more Aditya Bhattacharya`
 
-## Video Materials
+## Bookmarked Video Materials
 
-These are some of my go-to online video materials anytime I want to learn a new concept or refresh my memory about a concept. 
+These are some of my go-to online video materials anytime I want to learn a new concept or refresh my memory about a concept, some of which I have not watched, 
 
 1. Stat Quest with Josh Starmer Machine Learning Playlist (__[Link](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)__) <br>
-`Comment: Watched a few. These are great, intuitive introductory videos to machine learning, and some ML algorithms.` 
+`Comment: Watched some videos. These are great, intuitive introductory videos to machine learning, and some ML algorithms.` 
 2. Deeplearning.ai (__[Link](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists)__)
 3. Standford's Convolutional Neural Networks for Visual Recognition (__[Link](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)__)
 4. MIT 18.065: Gilbert Strang's Matrix Methods in Data Analysis, Signal Processing, and Machine Learning (__[Link](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)__)
 5. Bloomberg's Foundations of Machine Learning (__[Link](https://www.youtube.com/watch?v=MsD28INtSv8&list=PLnZuxOufsXnvftwTB1HL6mel1V32w0ThI)__)
 6. Stat Quest with Josh Starmer Statistics Fundamentals Playlist (__[Link](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)__) <br> 
-7. freeCodeCamp.org TensorFlow 2.0 Complete Course (__[Link](https://www.youtube.com/watch?v=tPYj3fFJGjk&t=5450s)__) <br> 
-8. Ali Ghodsi's STAT 946: Deep Learning Class @ UWaterloo  (__[Link](https://www.youtube.com/watch?v=poa3dNdMe4o&list=PLehuLRPyt1HxTolYUWeyyIoxDabDmaOSB&index=7)__, __[Syllabus](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/f18-stat946-dl-v1.pdf)__) <br>
-9. DeepMind x UCL | Deep Learning Lectures (__[Link](https://www.youtube.com/watch?v=7R52wiUgxZI&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)__)
-10. Deep Learning in Life Sciences, MIT Course (__[Link](https://www.youtube.com/watch?v=0jWOZoTsYzI&list=PLypiXJdtIca5sxV7aE3-PS9fYX3vUdIOX)__)
+7. Ali Ghodsi's STAT 946: Deep Learning Class @ UWaterloo  (__[Link](https://www.youtube.com/watch?v=poa3dNdMe4o&list=PLehuLRPyt1HxTolYUWeyyIoxDabDmaOSB&index=7)__, __[Syllabus](https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/f18-stat946-dl-v1.pdf)__) <br>
+8. DeepMind x UCL | Deep Learning Lectures (__[Link](https://www.youtube.com/watch?v=7R52wiUgxZI&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)__)
+9. Deep Learning in Life Sciences, MIT Course (__[Link](https://www.youtube.com/watch?v=0jWOZoTsYzI&list=PLypiXJdtIca5sxV7aE3-PS9fYX3vUdIOX)__)
 
 
