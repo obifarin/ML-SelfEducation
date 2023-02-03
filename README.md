@@ -31,9 +31,7 @@ Completed (@ The University of Georgia) <br>
 4. Deep Learning with PyTorch : Image Segmentation| Coursera | Feb 2022 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/PyTorch_Image_Segmentation.pdf)__
 
 **Ongoing**
-- `Convolutional Neural Network`
-- `Recurrent Neural Network`
-- `Algorithms and Data Structures`
+- `Practical Introduction to Natural Language Processing`
 
 ## Books
 
