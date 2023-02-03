@@ -48,11 +48,11 @@ Completed (@ The University of Georgia) <br>
 8. Interpretable Machine Learning by C. Molnar | Technical |  __[my review](https://www.goodreads.com/book/show/42242921-interpretable-machine-learning)__ <br>
 9. Hands-On Gradient Boosting with XGBoost and scikit-learn by Corey Wade | Technical | __[my review](https://www.goodreads.com/review/show/3917175929)__ <br>
 10. Survival analysis: A self learning text | Technical | __[my review](https://www.goodreads.com/review/show/4314314214)__
+11. GPT-3 Building Innovative NLP Products Using Large Language Models | Technical | __[my review](https://www.goodreads.com/review/show/5012198423)__
+12. Modern Computer Vision with PyTorch| Technical | __[my review](https://bifarinthefifth.substack.com/p/book-review-modern-computer-vision)__
+13. Machine Learning Automation with TPOT Build, validate, and deploy fully automated machine learning models with Python | Technical 
 
 **Reading**
-- `Modern Computer Vision with PyTorch`
-- `GPT-3 Building Innovative NLP Products Using Large Language Models`
-- `Machine Learning Automation with TPOT Build, validate, and deploy fully automated machine learning models with Python`
 - `Applied Machine Learning Explainability Techniques Make ML models explainable and trustworthy for practical applications using LIME, SHAP, and more Aditya Bhattacharya`
 
 ## Video Materials
