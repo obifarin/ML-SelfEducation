@@ -23,6 +23,7 @@ Completed (@ The University of Georgia) <br>
 7. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization | Coursera | Aug 2020 |  __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/Hyperparameter_DL(2020)_CoC.pdf)__<br>
 8. Structuring Machine Learning Project | Coursera | Aug 2020 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/Structuring_ML_Projects(2020)_CoC.pdf)__<br>
 9. Specialized Models: Time Series and Survival Analysis | Coursera | Feb 2022 | I did not complete, I skipped the following topics, ARMA, ARIMA, SARIMA models, deep learning for forecasting. | __[Course Link](https://www.coursera.org/learn/time-series-survival-analysis)__ | <br>
+10. Practical Introduction to Natural Language Processing | Independent | May 2023 | __[Course Link](https://www.learnnlp.academy/)__ | <br>
 
 **Coursera Guided Classes: Completed**
 1. Perform Real-Time Object Detection with YOLOv3 | Coursera | Nov 2020 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/Perform%20Real-Time%20Object%20Detection%20with%20YOLOv3.pdf)__<br>
@@ -31,7 +32,7 @@ Completed (@ The University of Georgia) <br>
 4. Deep Learning with PyTorch : Image Segmentation| Coursera | Feb 2022 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/PyTorch_Image_Segmentation.pdf)__
 
 **Ongoing**
-- `Practical Introduction to Natural Language Processing`
+- `??`
 
 ## Books
 
@@ -52,6 +53,7 @@ Completed (@ The University of Georgia) <br>
 
 **Reading**
 - `Applied Machine Learning Explainability Techniques Make ML models explainable and trustworthy for practical applications using LIME, SHAP, and more Aditya Bhattacharya`
+- `Understanding deep learning.`
 
 ## Bookmarked Video Materials
 
