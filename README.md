@@ -33,7 +33,9 @@ Completed (@ The University of Georgia) <br>
 4. Deep Learning with PyTorch : Image Segmentation| Coursera | Feb 2022 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/PyTorch_Image_Segmentation.pdf)__
 
 **Ongoing**
-- `??`
+- LangChain for LLM Application Development | deeplearning.ai / short courses
+- Building Systems with the ChatGPT API | deeplearning.ai /short courses
+- LLMs: Application through Production | databricks.
 
 ## Books
 
