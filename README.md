@@ -1,5 +1,5 @@
 # ML-SelfEducation
-Updated 12 September 2023. 
+Updated 27 February 2024. 
 
 Lists of books, classes, MOOCs I have completed (or completing) on machine learning
 
@@ -25,8 +25,9 @@ Completed (@ The University of Georgia) <br>
 9. Specialized Models: Time Series and Survival Analysis | Coursera | Feb 2022 | I did not complete, I skipped the following topics, ARMA, ARIMA, SARIMA models, deep learning for forecasting. | __[Course Link](https://www.coursera.org/learn/time-series-survival-analysis)__ | <br>
 10. Practical Introduction to Natural Language Processing | Independent | May 2023 | __[Course Link](https://www.learnnlp.academy/)__ | <br>
 11. ChatGPT Prompt Engineering for Developers| deeplearning.ai / short course | June 2023 | __[Course Link](https://www.deeplearning.ai/short-courses/)__ | <br>
-12. Large Language Models: Application through Production| Databricks| Aug 2023 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/LLM101x_LLM_Appplication_through_Production_Certificate_edX_2023.pdf)__<br>
-
+12. LangChain for LLM Application Development | deeplearning.ai / short courses| July 2023 | __[Course Link](https://www.deeplearning.ai/short-courses/)__ | <br>
+13. Large Language Models: Application through Production| Databricks| Aug 2023 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/LLM101x_LLM_Appplication_through_Production_Certificate_edX_2023.pdf)__<br>
+14. LangChain: Chat with your Data | deeplearning.ai / short courses| December 2023 | __[Course Link](https://www.deeplearning.ai/short-courses/)__ | <br>
 **Coursera Guided Classes: Completed**
 1. Perform Real-Time Object Detection with YOLOv3 | Coursera | Nov 2020 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/Perform%20Real-Time%20Object%20Detection%20with%20YOLOv3.pdf)__<br>
 2. Explaining Tree Based Models Using SHAP | Coursera | Dec 2020 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/Explaining%20Tree%20Based%20Models%20Using%20SHAP.pdf)__
@@ -34,8 +35,7 @@ Completed (@ The University of Georgia) <br>
 4. Deep Learning with PyTorch : Image Segmentation| Coursera | Feb 2022 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/PyTorch_Image_Segmentation.pdf)__
 
 **Ongoing**
-- LangChain for LLM Application Development | deeplearning.ai / short courses
-- Building Systems with the ChatGPT API | deeplearning.ai /short courses
+- Functions, Tools and Agents with LangChain | deeplearning.ai /short courses
 - LLMs: Foundation Models From the Ground Up | Databricks
 
 ## Books
