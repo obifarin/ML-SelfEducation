@@ -36,7 +36,7 @@ Completed (@ The University of Georgia) <br>
 
 
 
-**Started didn' finish / Almost finished **
+**Started didn' finish / Almost finished**
 - Functions, Tools and Agents with LangChain | deeplearning.ai /short courses | __[Course Link](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)__ | <br>
 - LLMs: Foundation Models From the Ground Up | Databricks | __[Course Link](https://learning.edx.org/course/course-v1:Databricks+LLM102x+2T2023/home)__ | <br>
 
@@ -56,9 +56,9 @@ Completed (@ The University of Georgia) <br>
 11. GPT-3 Building Innovative NLP Products Using Large Language Models | Technical | __[my review](https://www.goodreads.com/review/show/5012198423)__
 12. Modern Computer Vision with PyTorch| Technical | __[my review](https://bifarinthefifth.substack.com/p/book-review-modern-computer-vision)__
 13. Machine Learning Automation with TPOT Build, validate, and deploy fully automated machine learning models with Python | Technical 
+14. Applied Machine Learning Explainability Techniques Make ML models explainable and trustworthy for practical applications using LIME, SHAP, and more Aditya Bhattacharya | Technical
 
 **Reading**
-- `Applied Machine Learning Explainability Techniques Make ML models explainable and trustworthy for practical applications using LIME, SHAP, and more Aditya Bhattacharya`
 - `Understanding deep learning.`
 
 ## Bookmarked Video Materials
