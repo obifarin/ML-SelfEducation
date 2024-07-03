@@ -36,7 +36,7 @@ Completed (@ The University of Georgia) <br>
 
 
 
-**Started didn' finish / Almost finished**
+**I Started, But Didn' Finish / Almost Finished**
 - Functions, Tools and Agents with LangChain | deeplearning.ai /short courses | __[Course Link](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)__ | <br>
 - LLMs: Foundation Models From the Ground Up | Databricks | __[Course Link](https://learning.edx.org/course/course-v1:Databricks+LLM102x+2T2023/home)__ | <br>
 
