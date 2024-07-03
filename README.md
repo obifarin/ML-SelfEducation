@@ -29,7 +29,7 @@ Completed (@ The University of Georgia) <br>
 13. Deep Learning with PyTorch : Image Segmentation| Coursera | Feb 2022 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/PyTorch_Image_Segmentation.pdf)__
 14. Practical Introduction to Natural Language Processing | Independent | May 2023 | __[Course Link](https://www.learnnlp.academy/)__ | <br>
 15. ChatGPT Prompt Engineering for Developers| deeplearning.ai / short course | June 2023 | __[Course Link](https://www.deeplearning.ai/short-courses/)__ | <br>
-16. LangChain for LLM Application Development | deeplearning.ai / short courses| July 2023 | __[Course Link](https://www.deeplearning.ai/short-courses/)__ | <br>
+16. LangChain for LLM Application Development | deeplearning.ai / short courses | July 2023 | __[Course Link](https://www.deeplearning.ai/short-courses/)__ | <br>
 17. Large Language Models: Application through Production| Databricks| Aug 2023 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/LLM101x_LLM_Appplication_through_Production_Certificate_edX_2023.pdf)__<br>
 18. LangChain: Chat with your Data | deeplearning.ai / short courses| December 2023 | __[Course Link](https://www.deeplearning.ai/short-courses/)__ | <br>
 19. Preprocessing Unstructured Data for LLM Applications | deeplearning.ai / short courses| July 2023 | __[Course Link](https://www.deeplearning.ai/short-courses/preprocessing-unstructured-data-for-llm-applications/)__ | <br>
