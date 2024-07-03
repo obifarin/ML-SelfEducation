@@ -1,5 +1,5 @@
 # ML-SelfEducation
-Updated 27 February 2024. 
+Updated 03 July 2024. 
 
 Lists of books, classes, MOOCs I have completed (or completing) on machine learning
 
