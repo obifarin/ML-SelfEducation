@@ -1,7 +1,7 @@
 # ML-SelfEducation
 Updated 03 July 2024. 
 
-Lists of books, classes, MOOCs I have completed (or completing) on machine learning
+Lists of books, classes, MOOCs I have completed (or completing) on machine learning and AI.
 
 ## University Classes
 
