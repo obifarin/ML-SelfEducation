@@ -23,20 +23,22 @@ Completed (@ The University of Georgia) <br>
 7. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization | Coursera | Aug 2020 |  __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/Hyperparameter_DL(2020)_CoC.pdf)__<br>
 8. Structuring Machine Learning Project | Coursera | Aug 2020 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/Structuring_ML_Projects(2020)_CoC.pdf)__<br>
 9. Specialized Models: Time Series and Survival Analysis | Coursera | Feb 2022 | I did not complete, I skipped the following topics, ARMA, ARIMA, SARIMA models, deep learning for forecasting. | __[Course Link](https://www.coursera.org/learn/time-series-survival-analysis)__ | <br>
-10. Practical Introduction to Natural Language Processing | Independent | May 2023 | __[Course Link](https://www.learnnlp.academy/)__ | <br>
-11. ChatGPT Prompt Engineering for Developers| deeplearning.ai / short course | June 2023 | __[Course Link](https://www.deeplearning.ai/short-courses/)__ | <br>
-12. LangChain for LLM Application Development | deeplearning.ai / short courses| July 2023 | __[Course Link](https://www.deeplearning.ai/short-courses/)__ | <br>
-13. Large Language Models: Application through Production| Databricks| Aug 2023 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/LLM101x_LLM_Appplication_through_Production_Certificate_edX_2023.pdf)__<br>
-14. LangChain: Chat with your Data | deeplearning.ai / short courses| December 2023 | __[Course Link](https://www.deeplearning.ai/short-courses/)__ | <br>
-**Coursera Guided Classes: Completed**
-1. Perform Real-Time Object Detection with YOLOv3 | Coursera | Nov 2020 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/Perform%20Real-Time%20Object%20Detection%20with%20YOLOv3.pdf)__<br>
-2. Explaining Tree Based Models Using SHAP | Coursera | Dec 2020 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/Explaining%20Tree%20Based%20Models%20Using%20SHAP.pdf)__
-3. Automatic Machine Learning Learning with H2O AutoML and Python | Coursera | Mar 2021 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/AutoML_H20_Python_Coursera_9MQ8W4N5VT4D_2021.pdf)__
-4. Deep Learning with PyTorch : Image Segmentation| Coursera | Feb 2022 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/PyTorch_Image_Segmentation.pdf)__
+10. Perform Real-Time Object Detection with YOLOv3 | Coursera | Nov 2020 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/Perform%20Real-Time%20Object%20Detection%20with%20YOLOv3.pdf)__<br>
+11. Explaining Tree Based Models Using SHAP | Coursera | Dec 2020 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/Explaining%20Tree%20Based%20Models%20Using%20SHAP.pdf)__
+12. Automatic Machine Learning Learning with H2O AutoML and Python | Coursera | Mar 2021 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/AutoML_H20_Python_Coursera_9MQ8W4N5VT4D_2021.pdf)__
+13. Deep Learning with PyTorch : Image Segmentation| Coursera | Feb 2022 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/PyTorch_Image_Segmentation.pdf)__
+14. Practical Introduction to Natural Language Processing | Independent | May 2023 | __[Course Link](https://www.learnnlp.academy/)__ | <br>
+15. ChatGPT Prompt Engineering for Developers| deeplearning.ai / short course | June 2023 | __[Course Link](https://www.deeplearning.ai/short-courses/)__ | <br>
+16. LangChain for LLM Application Development | deeplearning.ai / short courses| July 2023 | __[Course Link](https://www.deeplearning.ai/short-courses/)__ | <br>
+17. Large Language Models: Application through Production| Databricks| Aug 2023 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/LLM101x_LLM_Appplication_through_Production_Certificate_edX_2023.pdf)__<br>
+18. LangChain: Chat with your Data | deeplearning.ai / short courses| December 2023 | __[Course Link](https://www.deeplearning.ai/short-courses/)__ | <br>
+19. Preprocessing Unstructured Data for LLM Applications | deeplearning.ai / short courses| July 2023 | __[Course Link]([https://www.deeplearning.ai/short-courses/](https://www.deeplearning.ai/short-courses/preprocessing-unstructured-data-for-llm-applications/))__ | <br>
 
-**Ongoing**
-- Functions, Tools and Agents with LangChain | deeplearning.ai /short courses
-- LLMs: Foundation Models From the Ground Up | Databricks
+
+
+**Started didn' finish / Almost finished **
+- Functions, Tools and Agents with LangChain | deeplearning.ai /short courses | __[Course Link](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)__ | <br>
+- LLMs: Foundation Models From the Ground Up | Databricks | __[Course Link](https://learning.edx.org/course/course-v1:Databricks+LLM102x+2T2023/home)__ | <br>
 
 ## Books
 
