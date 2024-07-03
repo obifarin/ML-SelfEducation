@@ -61,7 +61,8 @@ Completed (@ The University of Georgia) <br>
 **Reading**
 - `Understanding deep learning.`
 
-## Bookmarked Video Materials
+## Bookmarked Video Materials 
+`I stopped updating this.`
 
 These are some of my go-to online video materials anytime I want to learn a new concept or refresh my memory about a concept, some of which I have not watched, 
 
