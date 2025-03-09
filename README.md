@@ -34,11 +34,11 @@ Completed (@ The University of Georgia) <br>
 18. LangChain: Chat with your Data | deeplearning.ai / short courses| December 2023 | __[Course Link](https://www.deeplearning.ai/short-courses/)__ | <br>
 19. Preprocessing Unstructured Data for LLM Applications | deeplearning.ai / short courses| July 2024 | __[Course Link](https://www.deeplearning.ai/short-courses/preprocessing-unstructured-data-for-llm-applications/)__ | <br>
 20. Developing AI Applications with Python and Flask | IBM / Coursera | July 2024 | __[Course Link](https://www.coursera.org/learn/python-project-for-ai-application-development)__ | <br>
+21. Building Full-Stack Apps with AI | jointakeoff.com | __[Course Link](https://www.jointakeoff.com/courses/apps-with-ai)__
 
 **Ongoing**
 - Llama for Developers | LinkedIn | XXX 2024 | __[Course Link](https://www.linkedin.com/learning/llama-for-developers)__
 - Introduction to LangGraph | LangChain Academy | __[Course Link](https://academy.langchain.com/courses/intro-to-langgraph)__
-- Building Full-Stack Apps with AI | jointakeoff.com | __[Course Link](https://www.jointakeoff.com/courses/apps-with-ai)__
 
 **Started, Didn't Complete / Almost Finished**
 - Functions, Tools and Agents with LangChain | deeplearning.ai /short courses | __[Course Link](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)__ | <br>
