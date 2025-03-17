@@ -39,6 +39,7 @@ Completed (@ The University of Georgia) <br>
 **Ongoing**
 - Llama for Developers | LinkedIn | XXX 2024 | __[Course Link](https://www.linkedin.com/learning/llama-for-developers)__
 - Introduction to LangGraph | LangChain Academy | __[Course Link](https://academy.langchain.com/courses/intro-to-langgraph)__
+- Microsoft Azure Fundamentals | Microsoft | __[Course Link](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/1-introduction-microsoft-azure-fundamentals)__
 
 **Started, Didn't Complete / Almost Finished**
 - Functions, Tools and Agents with LangChain | deeplearning.ai /short courses | __[Course Link](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)__ | <br>
