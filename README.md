@@ -65,6 +65,7 @@ Completed (@ The University of Georgia) <br>
 
 **Reading**
 - `Understanding deep learning.`
+- `Handson Finetuning LLM with Pytorch and Hugging Face`
 
 ## Bookmarked Video Materials 
 `I stopped updating this.`
