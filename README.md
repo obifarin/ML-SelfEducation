@@ -38,7 +38,7 @@ Completed (@ The University of Georgia) <br>
 22. Microsoft Azure Fundamentals | Microsoft | __[Course Link](https://learn.microsoft.com/en-us/users/olatomiwabifarin-6480/)__
 
 **Ongoing**
-- Vibe Coding 101 | Deeplearning.ai |
+- Vibe Coding 101 | Deeplearning.ai | Course Link
 - Llama for Developers | LinkedIn | XXX 2024 | __[Course Link](https://www.linkedin.com/learning/llama-for-developers)__
 - Introduction to LangGraph | LangChain Academy | __[Course Link](https://academy.langchain.com/courses/intro-to-langgraph)__
 
