@@ -36,9 +36,9 @@ Completed (@ The University of Georgia) <br>
 20. Developing AI Applications with Python and Flask | IBM / Coursera | July 2024 | __[Course Link](https://www.coursera.org/learn/python-project-for-ai-application-development)__ | <br>
 21. Building Full-Stack Apps with AI | jointakeoff.com | __[Course Link](https://www.jointakeoff.com/courses/apps-with-ai)__
 22. Microsoft Azure Fundamentals | Microsoft | __[Course Link](https://learn.microsoft.com/en-us/users/olatomiwabifarin-6480/)__
+23. Vibe Coding 101 | Deeplearning.ai | __[Course Link](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/)__
 
 **Ongoing**
-- Vibe Coding 101 | Deeplearning.ai | __[Course Link](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/)__
 - Llama for Developers | LinkedIn | XXX 2024 | __[Course Link](https://www.linkedin.com/learning/llama-for-developers)__
 - Introduction to LangGraph | LangChain Academy | __[Course Link](https://academy.langchain.com/courses/intro-to-langgraph)__
 
