@@ -34,9 +34,9 @@ Completed (@ The University of Georgia) <br>
 18. LangChain: Chat with your Data | deeplearning.ai / short courses| December 2023 | __[Course Link](https://www.deeplearning.ai/short-courses/)__ | <br>
 19. Preprocessing Unstructured Data for LLM Applications | deeplearning.ai / short courses| July 2024 | __[Course Link](https://www.deeplearning.ai/short-courses/preprocessing-unstructured-data-for-llm-applications/)__ | <br>
 20. Developing AI Applications with Python and Flask | IBM / Coursera | July 2024 | __[Course Link](https://www.coursera.org/learn/python-project-for-ai-application-development)__ | <br>
-21. Building Full-Stack Apps with AI | jointakeoff.com | __[Course Link](https://www.jointakeoff.com/courses/apps-with-ai)__
-22. Microsoft Azure Fundamentals | Microsoft | __[Course Link](https://learn.microsoft.com/en-us/users/olatomiwabifarin-6480/)__
-23. Vibe Coding 101 | Deeplearning.ai | __[Course Link](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/)__
+21. Building Full-Stack Apps with AI | jointakeoff.com | Feb 2024 |  __[Course Link](https://www.jointakeoff.com/courses/apps-with-ai)__
+22. Microsoft Azure Fundamentals | Microsoft | March 2024 |  __[Course Link](https://learn.microsoft.com/en-us/users/olatomiwabifarin-6480/)__
+23. Vibe Coding 101 | Deeplearning.ai | April 2024 |  __[Course Link](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/)__
 
 **Ongoing**
 - Llama for Developers | LinkedIn | XXX 2024 | __[Course Link](https://www.linkedin.com/learning/llama-for-developers)__
