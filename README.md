@@ -1,9 +1,6 @@
 # ML-SelfEducation
 
-_Last updated: 18 April 2025_
-
-![Completed](https://img.shields.io/badge/status-completed-brightgreen)
-![In Progress](https://img.shields.io/badge/status-in--progress-yellow)
+_Last updated: 05 May 2025_
 
 ## 📋 Table of Contents
 - [Summary](#summary)
@@ -11,30 +8,26 @@ _Last updated: 18 April 2025_
 - [University Classes](#university-classes)
 - [MOOCs](#moocs)
 - [Books](#books)
-- [Bookmarked Video Materials](#bookmarked-video-materials)
+- [Video Content](#video-content)
 
 ---
 
-## 📊 Summary
+## Summary
 
-- 🎓 3 University Classes  
-- 🌐 23 MOOCs  
-- 📚 14 Books Completed  
-- 🎥 9 Video Playlists Bookmarked  
+This repository tracks my journey in learning machine learning, AI, and related topics through various educational resources. It includes university courses, online courses (MOOCs), books, and video content. The materials range from foundational concepts to advanced topics in deep learning, natural language processing, and computer vision.
 
 ---
 
-## 🚧 Currently Learning
+## Currently Learning
 
-- Llama for Developers | LinkedIn | XXX 2024 | __[Course Link](https://www.linkedin.com/learning/llama-for-developers)__
-- Introduction to LangGraph | LangChain Academy | __[Course Link](https://academy.langchain.com/courses/intro-to-langgraph)__
-- `Understanding Deep Learning.`
+- Introduction to LangGraph | LangChain Academy | __[Course Link](https://www.jointakeoff.com/dashboard/courses/mcph)__
+- Model Context Protocol 101 | jointakeoff.com | __[Course Link](https://www.jointakeoff.com/dashboard/courses/mcp)__
 - `AI 2027`
 - `Handson Finetuning LLM with Pytorch and Hugging Face`
 
 ---
 
-## 🎓 University Classes
+## University Classes
 
 <details>
 <summary><strong>Completed (@ The University of Georgia)</strong></summary>
@@ -49,23 +42,24 @@ _Last updated: 18 April 2025_
 
 ---
 
-## 🌐 MOOCs
+## MOOCs
 
 <details>
 <summary><strong>Completed</strong></summary>
 
 | Course | Provider | Date | Link |
 |--------|----------|------|------|
-| Vibe Coding 101 | Deeplearning.ai | April 2025 | __[Course Link](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/)__ |
+| Cursor Course 3.0 | jointakeoff.com | May 2025 | __[Course Link](https://www.jointakeoff.com/courses/apps-with-ai)__ |
+| Vibe Coding 101 | Deeplearning.ai / Short Courses | April 2025 | __[Course Link](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/)__ |
 | Microsoft Azure Fundamentals | Microsoft | March 2025 | __[Course Link](https://learn.microsoft.com/en-us/users/olatomiwabifarin-6480/)__ |
 | Building Full-Stack Apps with AI | jointakeoff.com | Feb 2025 | __[Course Link](https://www.jointakeoff.com/courses/apps-with-ai)__ |
 | Developing AI Applications with Python and Flask | IBM / Coursera | July 2024 | __[Course Link](https://www.coursera.org/learn/python-project-for-ai-application-development)__ |
-| Preprocessing Unstructured Data for LLM Applications | deeplearning.ai / short courses | July 2024 | __[Course Link](https://www.deeplearning.ai/short-courses/preprocessing-unstructured-data-for-llm-applications/)__ |
-| LangChain: Chat with your Data | deeplearning.ai / short courses | December 2023 | __[Course Link](https://www.deeplearning.ai/short-courses/)__ |
+| Preprocessing Unstructured Data for LLM Applications | Deeplearning.ai / Short Courses | July 2024 | __[Course Link](https://www.deeplearning.ai/short-courses/preprocessing-unstructured-data-for-llm-applications/)__ |
+| LangChain: Chat with your Data | Deeplearning.ai / Short Courses | December 2023 | __[Course Link](https://www.deeplearning.ai/short-courses/)__ |
 | Large Language Models: Application through Production | Databricks | Aug 2023 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/LLM101x_LLM_Appplication_through_Production_Certificate_edX_2023.pdf)__ |
-| LangChain for LLM Application Development | deeplearning.ai / short courses | July 2023 | __[Course Link](https://www.deeplearning.ai/short-courses/)__ |
-| ChatGPT Prompt Engineering for Developers | deeplearning.ai / short course | June 2023 | __[Course Link](https://www.deeplearning.ai/short-courses/)__ |
-| Practical Introduction to Natural Language Processing | Independent | May 2023 | __[Course Link](https://www.learnnlp.academy/)__ |
+| LangChain for LLM Application Development | Deeplearning.ai / Short courses | July 2023 | __[Course Link](https://www.deeplearning.ai/short-courses/)__ |
+| ChatGPT Prompt Engineering for Developers | Deeplearning.ai / Short course | June 2023 | __[Course Link](https://www.deeplearning.ai/short-courses/)__ |
+| Practical Introduction to Natural Language Processing | LearnNLP.academy | May 2023 | __[Course Link](https://www.learnnlp.academy/)__ |
 | Deep Learning with PyTorch : Image Segmentation | Coursera | Feb 2022 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/PyTorch_Image_Segmentation.pdf)__ |
 | Specialized Models: Time Series and Survival Analysis | Coursera | Feb 2022 | __[Course Link](https://www.coursera.org/learn/time-series-survival-analysis)__ |
 | Automatic Machine Learning Learning with H2O AutoML and Python | Coursera | Mar 2021 | __[Link](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/AutoML_H20_Python_Coursera_9MQ8W4N5VT4D_2021.pdf)__ |
@@ -83,7 +77,7 @@ _Last updated: 18 April 2025_
 </details>
 
 <details>
-<summary><strong>Started, Didn't Complete / Almost Finished</strong></summary>
+<summary><strong>Partially Completed</strong></summary>
 
 | Course | Provider | Link |
 |--------|----------|------|
@@ -94,13 +88,14 @@ _Last updated: 18 April 2025_
 
 ---
 
-## 📚 Books
+## Books
 
 <details>
 <summary><strong>Completed</strong></summary>
 
 | Title | Author | Type | Review |
 |-------|--------|------|--------|
+| Sparks of Artificial General Intelligence: Early experiments with GPT-4 | Microsoft Research | Technical | __[my review](https://www.goodreads.com/review/show/5683773631)__ |
 | Applied Machine Learning Explainability Techniques | Aditya Bhattacharya | Technical | - |
 | Machine Learning Automation with TPOT | - | Technical | - |
 | Modern Computer Vision with PyTorch | - | Technical | __[my review](https://bifarinthefifth.substack.com/p/book-review-modern-computer-vision)__ |
@@ -118,9 +113,18 @@ _Last updated: 18 April 2025_
 
 </details>
 
+<details>
+<summary><strong>Partially Read</strong></summary>
+
+| Title | Author | Type | Link |
+|-------|--------|------|------|
+| Understanding Deep Learning | Simon J.D. Prince | Technical | __[Book Link](https://www.goodreads.com/book/show/123239819-understanding-deep-learning)__ |
+
+</details>
+
 ---
 
-## 🎥 Bookmarked Video Materials 
+## Video Content
 
 <details>
 <summary><strong>Early Learning Resources</strong></summary>
