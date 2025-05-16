@@ -21,7 +21,7 @@ This repository tracks my journey in learning machine learning, AI, and related 
 ## Currently Learning
 
 - Introduction to LangGraph | LangChain Academy | __[Course Link](https://www.jointakeoff.com/dashboard/courses/mcph)__
-- Model Context Protocol 101 | jointakeoff.com | __[Course Link](https://www.jointakeoff.com/dashboard/courses/mcp)__
+- MCP: Build Rich-Context AI Apps with Anthropic| Deeplearning.ai | __[Course Link](https://learn.deeplearning.ai/courses/mcp-build-rich-context-ai-apps-with-anthropic/lesson/fkbhh/introduction)__
 - `AI 2027`
 - `Handson Finetuning LLM with Pytorch and Hugging Face`
 
