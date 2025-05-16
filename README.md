@@ -49,6 +49,7 @@ This repository tracks my journey in learning machine learning, AI, and related 
 
 | Course | Provider | Date | Link |
 |--------|----------|------|------|
+| Model Context Protocol 101 | jointakeoff.com | May 2025 | __[Course Link](https://www.jointakeoff.com/dashboard/courses/mcp)__ |
 | Cursor Course 3.0 | jointakeoff.com | May 2025 | __[Course Link](https://www.jointakeoff.com/courses/apps-with-ai)__ |
 | Vibe Coding 101 | Deeplearning.ai / Short Courses | April 2025 | __[Course Link](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/)__ |
 | Microsoft Azure Fundamentals | Microsoft | March 2025 | __[Course Link](https://learn.microsoft.com/en-us/users/olatomiwabifarin-6480/)__ |
