@@ -1,6 +1,6 @@
 # ML-SelfEducation
 
-_Last updated: 05 May 2025_
+_Last updated: 18 Sep 2025_
 
 ## 📋 Table of Contents
 - [Summary](#summary)
@@ -14,16 +14,15 @@ _Last updated: 05 May 2025_
 
 ## Summary
 
-This repository tracks my journey in learning machine learning, AI, and related topics through various educational resources. It includes university courses, online courses (MOOCs), books, and video content. The materials range from foundational concepts to advanced topics in deep learning, natural language processing, and computer vision.
+This repository tracks my journey in learning machine learning, AI, and related CS topics through various educational resources. It includes mostly online courses (MOOCs), books, and video content. The materials range from foundational concepts to advanced topics in deep learning, natural language processing, and computer vision.
 
 ---
 
 ## Currently Learning
 
-- Introduction to LangGraph | LangChain Academy | __[Course Link](https://www.jointakeoff.com/dashboard/courses/mcph)__
-- MCP: Build Rich-Context AI Apps with Anthropic| Deeplearning.ai | __[Course Link](https://learn.deeplearning.ai/courses/mcp-build-rich-context-ai-apps-with-anthropic/lesson/fkbhh/introduction)__
-- `AI 2027`
-- `Handson Finetuning LLM with Pytorch and Hugging Face`
+- freeCodeCamp Full Stack Developer Curriculum
+- Handson Finetuning LLM with Pytorch and Hugging Face
+- Reshuffle: Who wins when AI restacks the knowledge economy
 
 ---
 
@@ -96,6 +95,7 @@ This repository tracks my journey in learning machine learning, AI, and related 
 
 | Title | Author | Type | Review |
 |-------|--------|------|--------|
+| AI 2027 | Daniel Kokotajlo et al | Semi-Technical | __[my review](https://theepsilon.substack.com/p/the-intelligence-explosion)__ |
 | Sparks of Artificial General Intelligence: Early experiments with GPT-4 | Microsoft Research | Technical | __[my review](https://www.goodreads.com/review/show/5683773631)__ |
 | Applied Machine Learning Explainability Techniques | Aditya Bhattacharya | Technical | - |
 | Machine Learning Automation with TPOT | - | Technical | - |
