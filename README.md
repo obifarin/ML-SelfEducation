@@ -1,6 +1,6 @@
 # ML-SelfEducation
 
-_Last updated: 18 Sep 2025_
+_Last updated: 01 Oct 2025_
 
 ## 📋 Table of Contents
 - [Summary](#summary)
@@ -21,6 +21,7 @@ This repository tracks my journey in learning machine learning, AI, and related 
 ## Currently Learning
 
 - freeCodeCamp Full Stack Developer Curriculum
+- Ultimate Guide to FastAPI and Backend Development
 - Handson Finetuning LLM with Pytorch and Hugging Face
 - Reshuffle: Who wins when AI restacks the knowledge economy
 
