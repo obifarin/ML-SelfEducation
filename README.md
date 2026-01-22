@@ -1,6 +1,6 @@
 # ML-SelfEducation
 
-_Last updated: 01 Oct 2025_
+_Last updated: 22 JAN 2026_
 
 ## 📋 Table of Contents
 - [Summary](#summary)
@@ -14,7 +14,7 @@ _Last updated: 01 Oct 2025_
 
 ## Summary
 
-This repository tracks my journey in learning machine learning, AI, and related CS topics through various educational resources. It includes mostly online courses (MOOCs), books, and video content. The materials range from foundational concepts to advanced topics in deep learning, natural language processing, and computer vision.
+This repository tracks my journey in learning machine learning, AI, and related CS topics through various educational resources. It includes mostly online courses (MOOCs), books, and video content. The materials range widely:  fundamentals of software engineering, deep learning, natural language processing, computer vision, and agent engineering.
 
 ---
 
@@ -23,7 +23,9 @@ This repository tracks my journey in learning machine learning, AI, and related 
 - freeCodeCamp Full Stack Developer Curriculum
 - Ultimate Guide to FastAPI and Backend Development
 - Handson Finetuning LLM with Pytorch and Hugging Face
-- Reshuffle: Who wins when AI restacks the knowledge economy
+- AI Agents Intensive Course with Google: [Link](https://www.kaggle.com/learn-guide/5-day-agents)
+- Patterns for Building AI Agents: [Link](https://mastra.ai/books/patterns-of-building-ai-agents)
+
 
 ---
 
@@ -96,7 +98,7 @@ This repository tracks my journey in learning machine learning, AI, and related 
 
 | Title | Author | Type | Review |
 |-------|--------|------|--------|
-| AI 2027 | Daniel Kokotajlo et al | Semi-Technical | __[my review](https://theepsilon.substack.com/p/the-intelligence-explosion)__ |
+| Reshuffle: Who Wins When AI Restacks the Knowledge Economy | Sangeet Paul Choudary | Non-Technical | __[my review](https://www.goodreads.com/review/show/7914532988)__ || AI 2027 | Daniel Kokotajlo et al | Semi-Technical | __[my review](https://theepsilon.substack.com/p/the-intelligence-explosion)__ |
 | Sparks of Artificial General Intelligence: Early experiments with GPT-4 | Microsoft Research | Technical | __[my review](https://www.goodreads.com/review/show/5683773631)__ |
 | Applied Machine Learning Explainability Techniques | Aditya Bhattacharya | Technical | - |
 | Machine Learning Automation with TPOT | - | Technical | - |
