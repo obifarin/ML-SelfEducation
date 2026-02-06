@@ -21,6 +21,7 @@ This repository tracks my journey in learning machine learning, AI, and related 
 ## Currently Learning
 
 - freeCodeCamp Full Stack Developer Curriculum
+- Gemini CLI: Code & Create with an Open-Source Agent: [Link](https://learn.deeplearning.ai/courses/gemini-cli-code-and-create-with-an-open-source-agent/lesson/wrg8ewb6/introduction)
 - Ultimate Guide to FastAPI and Backend Development
 - Handson Finetuning LLM with Pytorch and Hugging Face
 - AI Agents Intensive Course with Google: [Link](https://www.kaggle.com/learn-guide/5-day-agents)
