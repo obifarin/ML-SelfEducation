@@ -21,7 +21,6 @@ This repository tracks my journey in learning machine learning, AI, and related 
 ## Currently Learning
 
 - freeCodeCamp Full Stack Developer Curriculum
-- Gemini CLI: Code & Create with an Open-Source Agent: [Link](https://learn.deeplearning.ai/courses/gemini-cli-code-and-create-with-an-open-source-agent/lesson/wrg8ewb6/introduction)
 - Ultimate Guide to FastAPI and Backend Development
 - Handson Finetuning LLM with Pytorch and Hugging Face
 - AI Agents Intensive Course with Google: [Link](https://www.kaggle.com/learn-guide/5-day-agents)
@@ -52,6 +51,7 @@ This repository tracks my journey in learning machine learning, AI, and related 
 
 | Course | Provider | Date | Link |
 |--------|----------|------|------|
+| Gemini CLI: Code & Create with an Open-Source Agent | Deeplearning.ai | Feb 2026 | __[Course Link](https://learn.deeplearning.ai/courses/gemini-cli-code-and-create-with-an-open-source-agent/lesson/wrg8ewb6/introduction)__ |
 | Model Context Protocol 101 | jointakeoff.com | May 2025 | __[Course Link](https://www.jointakeoff.com/dashboard/courses/mcp)__ |
 | Cursor Course 3.0 | jointakeoff.com | May 2025 | __[Course Link](https://www.jointakeoff.com/courses/apps-with-ai)__ |
 | Vibe Coding 101 | Deeplearning.ai / Short Courses | April 2025 | __[Course Link](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/)__ |
