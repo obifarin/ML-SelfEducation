@@ -1,6 +1,6 @@
 # ML-SelfEducation
 
-_Last updated: 22 JAN 2026_
+_Last updated: 11 APR 2026_
 
 ## 📋 Table of Contents
 - [Summary](#summary)
@@ -21,8 +21,6 @@ This repository tracks my journey in learning machine learning, AI, and related 
 ## Currently Learning
 
 - freeCodeCamp Full Stack Developer Curriculum
-- Ultimate Guide to FastAPI and Backend Development
-- Handson Finetuning LLM with Pytorch and Hugging Face
 - AI Agents Intensive Course with Google: [Link](https://www.kaggle.com/learn-guide/5-day-agents)
 - Patterns for Building AI Agents: [Link](https://mastra.ai/books/patterns-of-building-ai-agents)
 
@@ -51,6 +49,7 @@ This repository tracks my journey in learning machine learning, AI, and related 
 
 | Course | Provider | Date | Link |
 |--------|----------|------|------|
+| Ultimate Guide to FastAPI and Backend Development | Udemy | April 2026 | __[Certificate](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/FastAPI_and_Backend_Dev_Certificate_2026.pdf)__ |
 | Gemini CLI: Code & Create with an Open-Source Agent | Deeplearning.ai | Feb 2026 | __[Course Link](https://learn.deeplearning.ai/courses/gemini-cli-code-and-create-with-an-open-source-agent/lesson/wrg8ewb6/introduction)__ |
 | Model Context Protocol 101 | jointakeoff.com | May 2025 | __[Course Link](https://www.jointakeoff.com/dashboard/courses/mcp)__ |
 | Cursor Course 3.0 | jointakeoff.com | May 2025 | __[Course Link](https://www.jointakeoff.com/courses/apps-with-ai)__ |
@@ -123,6 +122,7 @@ This repository tracks my journey in learning machine learning, AI, and related 
 
 | Title | Author | Type | Link |
 |-------|--------|------|------|
+| A Hands-On Guide to Fine-Tuning LLMs with PyTorch and Hugging Face | Daniel Voigt Godoy | Technical | __[Book](https://www.amazon.com/Hands-Fine-Tuning-Language-PyTorch-Hugging/dp/B0DV4H7YW2)__ · __[GitHub](https://github.com/dvgodoy/FineTuningLLMs)__ |
 | Understanding Deep Learning | Simon J.D. Prince | Technical | __[Book Link](https://www.goodreads.com/book/show/123239819-understanding-deep-learning)__ |
 
 </details>
