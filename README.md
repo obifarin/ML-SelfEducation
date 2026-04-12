@@ -1,6 +1,6 @@
 # ML-SelfEducation
 
-_Last updated: 11 APR 2026_
+_Last updated: 12 APR 2026_
 
 ## 📋 Table of Contents
 - [Summary](#summary)
@@ -23,6 +23,7 @@ This repository tracks my journey in learning machine learning, AI, and related 
 - freeCodeCamp Full Stack Developer Curriculum
 - AI Agents Intensive Course with Google: [Link](https://www.kaggle.com/learn-guide/5-day-agents)
 - Patterns for Building AI Agents: [Link](https://mastra.ai/books/patterns-of-building-ai-agents)
+- Deep Agents with LangGraph: [Link](https://academy.langchain.com/courses/deep-agents-with-langgraph)
 
 
 ---
