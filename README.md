@@ -1,6 +1,6 @@
 # ML-SelfEducation
 
-_Last updated: 12 APR 2026_
+_Last updated: 13 APR 2026_
 
 ## 📋 Table of Contents
 - [Summary](#summary)
@@ -23,8 +23,6 @@ This repository tracks my journey in learning machine learning, AI, and related 
 - freeCodeCamp Full Stack Developer Curriculum
 - AI Agents Intensive Course with Google: [Link](https://www.kaggle.com/learn-guide/5-day-agents)
 - Patterns for Building AI Agents: [Link](https://mastra.ai/books/patterns-of-building-ai-agents)
-- Deep Agents with LangGraph: [Link](https://academy.langchain.com/courses/deep-agents-with-langgraph)
-
 
 ---
 
@@ -50,6 +48,7 @@ This repository tracks my journey in learning machine learning, AI, and related 
 
 | Course | Provider | Date | Link |
 |--------|----------|------|------|
+| Deep Agents with LangGraph | LangChain Academy | April 2026 | __[Course Link](https://academy.langchain.com/courses/deep-agents-with-langgraph)__ · __[Certificate](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/Deep_Agents%20Certificate_2026.jpg)__ |
 | Ultimate Guide to FastAPI and Backend Development | Udemy | April 2026 | __[Certificate](https://github.com/obifarin/ML-SelfEducation/blob/master/MOOCS_Certifications/FastAPI_and_Backend_Dev_Certificate_2026.pdf)__ |
 | Gemini CLI: Code & Create with an Open-Source Agent | Deeplearning.ai | Feb 2026 | __[Course Link](https://learn.deeplearning.ai/courses/gemini-cli-code-and-create-with-an-open-source-agent/lesson/wrg8ewb6/introduction)__ |
 | Model Context Protocol 101 | jointakeoff.com | May 2025 | __[Course Link](https://www.jointakeoff.com/dashboard/courses/mcp)__ |
